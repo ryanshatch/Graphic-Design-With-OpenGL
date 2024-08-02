@@ -1,2 +1,3 @@
 * linguist-language=C++
-"Graphic-Design-With-OpenGL" linguist-language=txt
+*.gpg linguist-language=txt
+*.tar.gpg linguist-language=txt
