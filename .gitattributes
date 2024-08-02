@@ -1,3 +1,4 @@
-* linguist-language=C++
-*.gpg linguist-language=txt
-*.tar.gpg linguist-language=txt
+*.gpg linguist-language=Text
+*.tar.gpg linguist-language=Text
+*.sig linguist-language=Text
+*.md linguist-language=C++
