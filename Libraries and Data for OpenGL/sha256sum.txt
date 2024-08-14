@@ -1,0 +1,4 @@
+8983eb758348cea2fee23d0a8a15676261eb078c2b96b060d5a828b9dca1ab62  Libraries and Data.zip.001.gpg
+ca6c2878548fa32e24d18e1426f5f6bab64f81d0afc210e57091433ec68af269  Libraries and Data.zip.002.gpg
+70597a37293fafc8dea563b22e0a84c1022d0ed2e861bddc24d0b2b60bfe8da9  Libraries and Data.zip.003.gpg
+095e5b69f122018743f6cc33f05a76e05ed3f3257157a0ff4273fe6e70662488  Libraries and Data.zip.004.gpg
